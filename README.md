@@ -3,7 +3,7 @@
 ## 🎥 Watch In Action
 [![](https://raw.githubusercontent.com/Arham1243/invisibility-cloak/main/thumbnail.png)](https://vimeo.com/1074931589/6977d36d25)
 
-## 🎥 Cloak I Used
+## 🎥 Cloak Used
 ![](https://raw.githubusercontent.com/Arham1243/invisibility-cloak/main/cloak.jpg)
 
 ## 🚀 Quick Start
